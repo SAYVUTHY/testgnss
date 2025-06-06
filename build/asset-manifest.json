@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27c9154b.css",
+    "main.js": "/static/js/main.726886da.js",
+    "static/js/453.1843f74c.chunk.js": "/static/js/453.1843f74c.chunk.js",
+    "static/media/Logo_KCC.png": "/static/media/Logo_KCC.f29915c188921a34e835.png",
+    "static/media/layers.png": "/static/media/layers.544181c9d88897624488.png",
+    "static/media/db_convert.png": "/static/media/db_convert.761996cb8588bb91aaa0.png",
+    "static/media/db.png": "/static/media/db.90cee7aeae6c51f975b2.png",
+    "static/media/db_merge.png": "/static/media/db_merge.25a0c7a50f7d1827ff74.png",
+    "index.html": "/index.html",
+    "main.27c9154b.css.map": "/static/css/main.27c9154b.css.map",
+    "main.726886da.js.map": "/static/js/main.726886da.js.map",
+    "453.1843f74c.chunk.js.map": "/static/js/453.1843f74c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27c9154b.css",
+    "static/js/main.726886da.js"
+  ]
+}
